@@ -1,0 +1,14 @@
+# Visual Studio local folder
+.vs/
+
+# SQLite files (if you don't want to push the DB)
+*.sqlite
+*.db
+
+# Backup files
+*.bak
+*.tmp
+
+# Solution user options
+*.suo
+*.user
